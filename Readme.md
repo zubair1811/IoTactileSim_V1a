@@ -1,18 +1,6 @@
-# IoTactileSim: A Virtual Testbed for Tactile Industrial Internet of Things Services  
-A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS and QoE requirments and test their proposed Algorithms.
-## Package and OS Requirments 
-* Ubuntu 18.04 LTS
-* Python v3.8
-* Mininet Emulator 3.6.9
-* CoppeliaSim 4.2
-* Other packeges 
-(pynput==1.1.7; ;pandas; Sim_GUI; socklet; pickle; multiprocessing;  libgl1-mesa-dev; mss==3.1.2; numpy; matplotlib)
+## **HAPTIC DATABASES**
 
-## Starting **IoTactileSim**
-To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) and run the command $sudo python [MininetEmulator.py[()
-
-
-|Database|Type|Samples|Capturing tool|Refs.|
+|Database|Type|Samples|Capturing Tool|Refs.|
 |:--|:--|:--|:--|:--|
 |Penn haptic texture toolkit        | Various      | 100      | 6-DoF custom handheld device      |[https://ieeexplore.ieee.org/abstract/document/6775475] |
 |LMT haptic texture database         |Surface material       |184       |Haptic stylus       |[https://ieeexplore.ieee.org/abstract/document/8894510] [https://ieeexplore.ieee.org/abstract/document/7737070]    |
@@ -25,3 +13,25 @@ To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) a
 |  Open access haptic database       |Thermal sensing       | 69      |Thermal sensor       |   [https://arxiv.org/abs/1711.01490]  |
 |  Haptic texture database       | Surface texture      | 43      |Geomagic device with custom stylus tip       |  [https://ieeexplore.ieee.org/abstract/document/6954342]   |
 |  Universal haptic library       | Surface texture      | 84      |Subjective selection       |  [https://ieeexplore.ieee.org/abstract/document/6954342]   |
+
+
+## **TESTBEDS FOR TACTILE INTERNET **
+
+
+|Testbed|Standard|Non-Standard|Major Contribution|Refs.|
+|:--|:--|:--|:--|:--|
+|NFV-Enabled 5G Tactile Internet platform     |     |*     |Present a NFV-enabled platform to support 5G Tactile Internet
+delay-sensitive applications.     |https://ieeexplore.ieee.org/abstract/document/8718538     |
+| TCPSbed    |     | *    | Introduce a platplorm of tactile CPSs employing ns-3 for
+network simulations.    |[https://ieeexplore.ieee.org/abstract/document/8711100]     |
+| Adjustable instrumented multisensory
+stimuli (AIMS)    |     | *    | Present a haptic testbed system to analysis and comparing the
+different cutaneous haptic cues.    | [https://ieeexplore.ieee.org/abstract/document/8816086]  |
+| Haptic system testbed    |     | *    |Propose a platform for haptic communication considering
+centralized interface to provide latency assistance.     |  [ https://ieeexplore.ieee.org/abstract/document/8070953]  |
+|Tactile Internet extensible testbed
+(TIXT)     |*     |     | Propose an extensible testbed for Tactile Internet communication following the lines of IEEE P1918.1 Tactile Internet
+reference architecture.    | [https://ieeexplore.ieee.org/abstract/document/9063407 ]    |
+|Otto-von-guericke university-haptic
+communication (OVGU-HC)     | *    |     | Present a data-driven experiment design for haptic-driven
+applications with a focus on communication flow.| [https://ieeexplore.ieee.org/abstract/document/9217271]    |
