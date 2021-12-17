@@ -5,9 +5,9 @@
 |Penn haptic texture toolkit        | Various      | 100      | 6-DoF custom handheld device      |[[1]](https://ieeexplore.ieee.org/abstract/document/6775475) |
 |LMT haptic texture database     |Surface material  |184  |Haptic stylus |[[2]](https://ieeexplore.ieee.org/abstract/document/8894510) [[3]](https://ieeexplore.ieee.org/abstract/document/7737070)|
 |HapTex         | Fabric      | 120      |   Custom device (TexRecorder)     | [[4]]( https://ieeexplore.ieee.org/abstract/document/8816167 )    |
-|  -       |Various       | 100      |Force sensors phantom premium device      | [[5]](https://www.mdpi.com/1424-8220/18/1/237)   |
+| Haptic data       |Various       | 100      |Force sensors phantom premium device      | [[5]](https://www.mdpi.com/1424-8220/18/1/237)   |
 | Needle insertion        | Insertion and retraction forces  |39  |Trocar needle |  [[6]](https://www.sciencedirect.com/science/article/pii/S1751616117300218?via%3Dihub )   |
-|  -       | Various      | 100      |Tactile sensor        |   [[7]](https://ieeexplore.ieee.org/abstract/document/8852359)  |
+| Haptic data      | Various      | 100      |Tactile sensor        |   [[7]](https://ieeexplore.ieee.org/abstract/document/8852359)  |
 | Technical university of munich database        |Surface material       | 280      | Custom device      |   [[8]](https://ieeexplore.ieee.org/abstract/document/8547512)  |
 |  Open access haptic database       | various      | 18      | Tactile skin sensor      |  [[9]](https://ieeexplore.ieee.org/abstract/document/6386142)   |
 |  Open access haptic database       |Thermal sensing       | 69      |Thermal sensor       |   [[10]](https://arxiv.org/abs/1711.01490)  |
