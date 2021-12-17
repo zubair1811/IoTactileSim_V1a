@@ -19,7 +19,7 @@
 
 
 |Testbed|Standard|Non-Standard|Refs.|
-|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|
 |NFV-Enabled 5G Tactile Internet platform  |-|* |[https://ieeexplore.ieee.org/abstract/document/8718538]|
 
 | TCPSbed | -| *    | Introduce a platplorm of tactile CPSs employing ns-3 for
