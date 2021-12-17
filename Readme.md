@@ -25,6 +25,5 @@
 | TCPSbed | -| * |Introduce a platplorm of tactile CPSs employing ns-3 fornetwork simulations [[2]](https://ieeexplore.ieee.org/abstract/document/8711100)|
 | Adjustable instrumented multisensorystimuli (AIMS) |   -  | *   | Present a haptic testbed system to analysis and comparing the different cutaneous haptic cues [[3]](https://ieeexplore.ieee.org/abstract/document/8816086)  |
 | Haptic system testbed    |   -  | *   |Propose a platform for haptic communication considering centralized interface to provide latency assistance [[4]](https://ieeexplore.ieee.org/abstract/document/8070953)|
-|Tactile Internet extensible testbed (TIXT)  |* |- |Propose an extensible testbed for Tactile Internet communication following the lines of IEEE P1918.1 Tactile Internet
-reference architecture [[5]](https://ieeexplore.ieee.org/abstract/document/9063407) |
-|Otto-von-guericke university-hapticcommunication (OVGU-HC)     | *   |- |Present a data-driven experiment design for haptic-driven applications with a focus on communication flow| [[6]](https://ieeexplore.ieee.org/abstract/document/9217271)   |
+|Tactile Internet extensible testbed (TIXT)  |* |- |Propose an extensible testbed for Tactile Internet communication following the lines of IEEE P1918.1 Tactile Internet reference architecture[[5]](https://ieeexplore.ieee.org/abstract/document/9063407) |
+|Otto-von-guericke university-hapticcommunication (OVGU-HC)| * |- |Present a data-driven experiment design for haptic-driven applications with a focus on communication flow [[6]](https://ieeexplore.ieee.org/abstract/document/9217271) |
