@@ -22,8 +22,8 @@
 |Testbed|Standard|Non-Standard| Contributions|Refs.|
 |:--|:--|:--|:--|:--|
 |NFV-Enabled 5G Tactile Internet platform  |-|* |Present a NFV-enabled platform to support 5G Tactile Internet delay-sensitive applications |[https://ieeexplore.ieee.org/abstract/document/8718538]|
-| TCPSbed | -| * |Introduce a platplorm of tactile CPSs employing ns-3 fornetwork simulations. |
-[https://ieeexplore.ieee.org/abstract/document/8711100] |
+| TCPSbed | -| * |Introduce a platplorm of tactile CPSs employing ns-3 fornetwork simulations|
+[https://ieeexplore.ieee.org/abstract/document/8711100]|
 | Adjustable instrumented multisensorystimuli (AIMS) |   -  | *   |Present a haptic testbed system to analysis and comparing the different cutaneous haptic cues. |
 [https://ieeexplore.ieee.org/abstract/document/8816086]  |
 | Haptic system testbed    |   -  | *   |Propose a platform for haptic communication considering centralized interface to provide latency assistance. |
