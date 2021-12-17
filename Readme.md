@@ -12,3 +12,7 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) and run the command $sudo python [MininetEmulator.py[()
 
 
+|Database|Type|Samples|Capturing tool|Refs.|
+|:--|:--|:--|:--|:--|
+|Penn haptic texture toolkit        | Various      | 100      | 6-DoF custom handheld device      | [236]    |
+|         |       |       |       |     |
