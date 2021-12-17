@@ -1,7 +1,7 @@
 ## **HAPTIC DATABASES**
 
 |Database|Type|Samples|Capturing Tool|Refs.|
-|:--|:--|:--|:--|:--|
+|:--|:--|:--|:-----------|:--|
 |Penn haptic texture toolkit        | Various      | 100      | 6-DoF custom handheld device      |[https://ieeexplore.ieee.org/abstract/document/6775475] |
 |LMT haptic texture database         |Surface material       |184       |Haptic stylus       |[https://ieeexplore.ieee.org/abstract/document/8894510] [https://ieeexplore.ieee.org/abstract/document/7737070]    |
 |HapTex         | Fabric      | 120      |   Custom device (TexRecorder)     | [ https://ieeexplore.ieee.org/abstract/document/8816167 ]    |
