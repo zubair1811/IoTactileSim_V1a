@@ -16,7 +16,7 @@
 
 
 
-## **TESTBEDS FOR TACTILE INTERNET **
+## **TESTBEDS FOR TACTILE INTERNET**
 
 
 |Testbed|Standard|Non-Standard| Contributions and Refs.|
