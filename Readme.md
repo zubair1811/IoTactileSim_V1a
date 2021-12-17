@@ -7,12 +7,12 @@
 |HapTex         | Fabric      | 120      |   Custom device (TexRecorder)     | [[4]]( https://ieeexplore.ieee.org/abstract/document/8816167 )    |
 |  -       |Various       | 100      |Force sensors phantom premium device      | [[5]](https://www.mdpi.com/1424-8220/18/1/237)   |
 | Needle insertion        | Insertion and retraction forces  |39  |Trocar needle |  [[6]](https://www.sciencedirect.com/science/article/pii/S1751616117300218?via%3Dihub )   |
-|  -       | Various      | 100      |Tactile sensor        |   [https://ieeexplore.ieee.org/abstract/document/8852359]  |
-| Technical university of munich database        |Surface material       | 280      | Custom device      |   [https://ieeexplore.ieee.org/abstract/document/8547512]  |
-|  Open access haptic database       | various      | 18      | Tactile skin sensor      |  [https://ieeexplore.ieee.org/abstract/document/6386142]   |
-|  Open access haptic database       |Thermal sensing       | 69      |Thermal sensor       |   [https://arxiv.org/abs/1711.01490]  |
-|  Haptic texture database       | Surface texture      | 43      |Geomagic device with custom stylus tip       |  [https://ieeexplore.ieee.org/abstract/document/6954342]   |
-|  Universal haptic library       | Surface texture      | 84      |Subjective selection       |  [https://ieeexplore.ieee.org/abstract/document/6954342]   |
+|  -       | Various      | 100      |Tactile sensor        |   [[7]](https://ieeexplore.ieee.org/abstract/document/8852359)  |
+| Technical university of munich database        |Surface material       | 280      | Custom device      |   [[8]](https://ieeexplore.ieee.org/abstract/document/8547512)  |
+|  Open access haptic database       | various      | 18      | Tactile skin sensor      |  [[9]](https://ieeexplore.ieee.org/abstract/document/6386142)   |
+|  Open access haptic database       |Thermal sensing       | 69      |Thermal sensor       |   [[10]](https://arxiv.org/abs/1711.01490)  |
+|  Haptic texture database       | Surface texture      | 43      |Geomagic device with custom stylus tip   |  [[11]](https://ieeexplore.ieee.org/abstract/document/6954342)   |
+|  Universal haptic library       | Surface texture      | 84      |Subjective selection       |  [[12]](https://ieeexplore.ieee.org/abstract/document/6954342)   |
 
 
 
