@@ -21,16 +21,8 @@
 |Testbed|Standard|Non-Standard|Refs.|
 |:--|:--|:--|:--|
 |NFV-Enabled 5G Tactile Internet platform  |-|* |[https://ieeexplore.ieee.org/abstract/document/8718538]|
-
 | TCPSbed | -| * |[https://ieeexplore.ieee.org/abstract/document/8711100] |
-
-| Adjustable instrumented multisensory
-stimuli (AIMS)    |   -  | *    | [https://ieeexplore.ieee.org/abstract/document/8816086]  |
-
+| Adjustable instrumented multisensorystimuli (AIMS) |   -  | *    | [https://ieeexplore.ieee.org/abstract/document/8816086]  |
 | Haptic system testbed    |   -  | *   |  [ https://ieeexplore.ieee.org/abstract/document/8070953]  |
-
-|Tactile Internet extensible testbed
-(TIXT)     |*     |  -  | [https://ieeexplore.ieee.org/abstract/document/9063407 ]    |
-
-|Otto-von-guericke university-haptic
-communication (OVGU-HC)     | *   |-  | [https://ieeexplore.ieee.org/abstract/document/9217271]    |
+|Tactile Internet extensible testbed (TIXT)  |*     |  -  | [https://ieeexplore.ieee.org/abstract/document/9063407 ]    |
+|Otto-von-guericke university-hapticcommunication (OVGU-HC)     | *   |-  | [https://ieeexplore.ieee.org/abstract/document/9217271]    |
