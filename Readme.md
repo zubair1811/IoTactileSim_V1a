@@ -14,5 +14,5 @@ To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) a
 
 |Database|Type|Samples|Capturing tool|Refs.|
 |:--|:--|:--|:--|:--|
-|Penn haptic texture toolkit        | Various      | 100      | 6-DoF custom handheld device      | [236]    |
+|Penn haptic texture toolkit        | Various      | 100      | 6-DoF custom handheld device      | [1][https://ieeexplore.ieee.org/abstract/document/6775475]    |
 |         |       |       |       |     |
