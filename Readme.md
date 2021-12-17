@@ -21,7 +21,7 @@
 
 |Testbed|Standard|Non-Standard| Contributions|Refs.|
 |:--|:--|:--|:--|:--|
-|NFV-Enabled 5G Tactile Internet platform  |-|* |Present a NFV-enabled platform to support 5G Tactile Internet delay-sensitive applications[https://ieeexplore.ieee.org/abstract/document/8718538]|
+|NFV-Enabled 5G Tactile Internet platform  |-|* |Present a NFV-enabled platform to support 5G Tactile Internet delay-sensitive applications [https://ieeexplore.ieee.org/abstract/document/8718538]|
 | TCPSbed | -| * | |[https://ieeexplore.ieee.org/abstract/document/8711100] |
 | Adjustable instrumented multisensorystimuli (AIMS) |   -  | *   | |[https://ieeexplore.ieee.org/abstract/document/8816086]  |
 | Haptic system testbed    |   -  | *   | |[https://ieeexplore.ieee.org/abstract/document/8070953]  |
